@@ -8,7 +8,7 @@ title: Distant Reading Project
 
 # Distant Reading Assignment 
 
-##Voyant
+## Voyant
 -	What can you discern about the text from these results?
   
 I can discern that the text uses certain words several times.
@@ -23,7 +23,7 @@ No, the results go into more than the article itself, voyant dove into other art
 
 ![WordBubble](WordBubble.JPG)
 
-##CoPilot
+## CoPilot
 - What can you discern about the text from these results?
   
 Instantly I am able to discern significantly more/higher quality information from CoPilot, it tells me the contents of the article and surrounding information needed to understand what is being conveyed.
