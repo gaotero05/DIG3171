@@ -100,9 +100,9 @@ ________________________________________
 ________________________________________
 📈 Performance vs. Peers
 Compared to other quantum computing stocks:
--	Rigetti (RGTI): $15.12 | Market Cap: $4.9B
--	D-Wave (QBTS): $15.29 | Market Cap: $5.2B
--	Quantum Computing Inc. (QUBT): $14.76 | Market Cap: $2.36B
+-	Rigetti (RGTI): $15.12 / Market Cap: $4.9B
+-	D-Wave (QBTS): $15.29 / Market Cap: $5.2B
+-	Quantum Computing Inc. (QUBT): $14.76 / Market Cap: $2.36B
 IonQ leads in valuation and growth trajectory.
 ________________________________________
 Would you like a visual chart of IonQ’s performance or a comparison with AI-related stocks?
