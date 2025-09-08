@@ -9,10 +9,13 @@ title: Distant Reading Project
 # Distant Reading Assignment 
 
 **Voyant**
--	What can you discern about the text from these results? 
+-	What can you discern about the text from these results?
+  
 I can discern that the text uses certain words several times.
+
 - What can't you know from these results? 
-I have no way of discerning the context behind them using these words at any point and at times can be very misleading. 
+I have no way of discerning the context behind them using these words at any point and at times can be very misleading.
+
 - Are these results accurate?
 No, the results go into more than the article itself, voyant dove into other articles on the website which affected the word results even though I only input one link to one article.
 
