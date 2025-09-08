@@ -36,11 +36,12 @@ I won’t know exactly what is being said in the article since it is being fed t
   
 From the parts I recognize it seems to be accurate. But it also includes sources to do my own research with and back up its points.
 
-**CoPilot Replies**
+### CoPilot Replies
 
+**You said:**
 https://finance.yahoo.com/quote/IONQ/
 
-Copilot said:
+**Copilot said:**
 You can view the full details for IonQ, Inc. (NYSE: IONQ) directly on Yahoo Finance here:
 👉 IonQ, Inc. (IONQ) Stock Price, News, Quote & History - Yahoo Finance
 
@@ -56,10 +57,10 @@ Would you like a summary of the latest headlines or a breakdown of their financi
 IonQ, Inc. (IONQ) Stock Price, News, Quote & History - Yahoo Finance
 finance.yahoo.com
 
-You said:
+**You said:**
 summarize its contents
 
-Copilot said:
+**Copilot said:**
 Here’s a comprehensive summary of the IonQ, Inc. (NYSE: IONQ) page on Yahoo Finance
 ________________________________________
 📊 Stock Snapshot
