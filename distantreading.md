@@ -106,13 +106,19 @@ Compared to other quantum computing stocks:
 IonQ leads in valuation and growth trajectory.
 ________________________________________
 Would you like a visual chart of IonQ’s performance or a comparison with AI-related stocks?
+
 1
+
 IonQ, Inc. (IONQ) Stock Price, News, Quote & History - Yahoo Finance
 finance.yahoo.com
+
 2
+
 IonQ (IONQ) Stock Trades Up, Here Is Why - Yahoo Finance
 finance.yahoo.com
+
 3
+
 IonQ, Inc. (NYSE:IONQ) Reports Significant Advances in its Intellectual ...
 finance.yahoo.com
 
