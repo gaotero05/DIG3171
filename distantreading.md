@@ -122,3 +122,6 @@ finance.yahoo.com
 IonQ, Inc. (NYSE:IONQ) Reports Significant Advances in its Intellectual ...
 finance.yahoo.com
 
+## Exercise Summary
+
+From this exercise I’ve found how AI can be used as a tool to filter sources and summarize information. However, when using AI, it is important to know which tools to use as this can lead to skewed results if you are not careful. When it comes to using AI tools, which one you use is just as important as picking out a good/reputable source. While these tools can be used to cut out a lot of fat when researching, it is still up to the user to decide how the tools are used and when it is appropriate to use them. It is also important to keep in mind that these tools are mostly filtering and reworking the sources so some errors can occur, and human discretion should always be implemented when possible. 
