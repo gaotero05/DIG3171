@@ -16,6 +16,8 @@ I have no way of discerning the context behind them using these words at any poi
 •	Are these results accurate?
 No, the results go into more than the article itself, voyant dove into other articles on the website which affected the word results even though I only input one link to one article.
 
+![WordBubble](WordBubble.JPG)
+
 CoPilot:
 •	What can you discern about the text from these results? 
 Instantly I am able to discern significantly more/higher quality information from CoPilot, it tells me the contents of the article and surrounding information needed to understand what is being conveyed.
