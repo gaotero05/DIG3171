@@ -44,7 +44,6 @@ quality to cheaper alternatives and has led to disillusionment among consumers.
 
 # Works Cited
 
-(add HTML code to do the hanging indentation, as seen below)
 
 <style>
   .works-cited {
