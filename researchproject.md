@@ -54,6 +54,14 @@ quality to cheaper alternatives and has led to disillusionment among consumers.
   }
 </style>
 
+<p class="works-cited">
+  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+</p>
+
+<p class="works-cited">
+  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+</p>
+<p class="works-cited">
 Bernevega, Alexander, and Alex Gekker. “The Industry of Landlords: Exploring the Assetization
 of the Triple-A Game.” Games and Culture, vol. 17, no. 1, Jan. 2022, pp. 47–69. DOI.org
 (Crossref), https://doi.org/10.1177/15554120211014151.
@@ -61,7 +69,7 @@ This article explores triple A games and their recent changes in monetization st
 explains what the “Free to play” model is and how recent triple A developers have started to
 adopt it. This article will be used to explain how recent changes in monetization structure have
 led to the decline on triple A game quality.
-
+</p>
 Eden, Lawrence. “An Expensive Hobby: The Rise of Video Game Prices.” University Wire;
 Carlsbad, May 2025, https://www.proquest.com/wire-feeds/expensive-hobby-rise-video-gameprices/docview/3225410417/se-2?accountid=10003.
 This article discusses the rising prices of video games and the shifting strategy for
